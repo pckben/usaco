@@ -21,3 +21,9 @@ Problem Types
 - Heuristic Search
 - Approximate Search
 ✓ Ad Hoc Problems
+
+
+Greedy Algorithm
+----------------
+
+Idea: build large solutions up from smaller ones, keeping/following only the best solution along the way.
