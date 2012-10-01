@@ -25,5 +25,23 @@ Problem Types
 
 Greedy Algorithm
 ----------------
-
 Idea: build large solutions up from smaller ones, keeping/following only the best solution along the way.
+
+
+Rules of Thumb
+--------------
+* 16MB max memory use
+* 2^10 ~ 10^3
+* 100M actions per second
+* Recursive with `b` calls per level and `l` levels: O(b^l)
+* N! permutations, 2^n subsets of N elements
+* Best time for sorting N elements: O(N log N)
+
+
+
+
+
+Indexing
+--------
+Length of a[i]...a[j] = j-i+1
+TODO: common stuff here...
