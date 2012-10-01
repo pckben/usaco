@@ -45,3 +45,8 @@ Indexing
 --------
 Length of a[i]...a[j] = j-i+1
 TODO: common stuff here...
+
+
+
+Combination C(n,r) = n! / (r! (n-r)!)
+Permutation P(n,r) = n! / (n-r)!
