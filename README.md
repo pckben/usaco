@@ -1,7 +1,6 @@
 USACO
 =====
 
-
 Problem Types
 -------------
 
@@ -20,7 +19,7 @@ Problem Types
 - BigNums
 - Heuristic Search
 - Approximate Search
-✓ Ad Hoc Problems
+- Ad Hoc Problems
 
 
 Greedy Algorithm
@@ -33,7 +32,7 @@ Rules of Thumb
 * 16MB max memory use
 * 2^10 ~ 10^3
 * 100M actions per second
-* Recursive with `b` calls per level and `l` levels: O(b^l)
+* Recursive with `b` calls per level and `l` levels: `O(b^l)
 * N! permutations, 2^n subsets of N elements
 * Best time for sorting N elements: O(N log N)
 
@@ -43,10 +42,10 @@ Rules of Thumb
 
 Indexing
 --------
+Some common sense stuff, but might be helpful from time to time
+
 Length of a[i]...a[j] = j-i+1
-TODO: common stuff here...
-
-
 
 Combination C(n,r) = n! / (r! (n-r)!)
+
 Permutation P(n,r) = n! / (n-r)!
